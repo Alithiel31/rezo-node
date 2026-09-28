@@ -1,3 +1,13 @@
+# Rezo Node — Web (Next.js)
+
+Frontend Next.js (App Router, TypeScript, Sass) consommant l'API Django/DRF + le flux WebSocket (Channels).
+
+## Statut
+
+Scaffold `create-next-app` par défaut — rien de spécifique à Rezo Node encore. Prochaine étape : maquette du plateau (thème neon sombre, portails octogonaux, style Mini Metro — voir la charte graphique dans le Project Claude "Rezo-Node").
+
+---
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
