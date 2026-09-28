@@ -1,0 +1,24 @@
+# Conception (non publiée)
+Conception/
+
+# Python / Django
+.venv/
+__pycache__/
+*.pyc
+staticfiles/
+
+# Secrets
+.env
+.env.*
+!.env.example
+
+# Node / Next.js
+node_modules/
+.next/
+out/
+
+# Éditeur
+.vscode/
+
+#Claude
+Claude outputs
